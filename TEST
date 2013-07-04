@@ -1,0 +1,2 @@
+Element str = doc.createElement("Størrelse"); 
+
